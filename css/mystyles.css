@@ -1,0 +1,9 @@
+@media screen and (min-width: 1088px) {
+    .navbar.is-spaced {
+        padding-top: 1rem;
+        padding-right: 2rem;
+        padding-bottom: 1rem;
+        padding-left: 2rem;
+    }
+}
+
